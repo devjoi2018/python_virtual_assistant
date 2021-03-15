@@ -35,3 +35,7 @@ Para poder ejecutar este proyecto debe cumplir con los siguientes requisitos.
     - PyAudio
 
 Para poder iniciar el programa debe ejecutar el archivo ( **gui_app.py** ), se abrira una interfaz bastante simple pero fue creada asi solo para evitar que sea la tipica aplicacion de consola. Por favor sientase en la libertad de poder clonar, compartir, descargar y modificar el codigo como usted desee, use el codigo como guste sin pedir permiso.
+
+## English
+
+At the moment this assistant is only in Spanish, however you only have to change the language to English and change the orders to English and it will also work.
