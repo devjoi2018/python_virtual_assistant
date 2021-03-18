@@ -27,7 +27,7 @@ Para poder ejecutar este proyecto debe cumplir con los siguientes requisitos.
 - Version de python: 3.8.8
 - Paquetes que debe tener instalado
     - PySimpleGUI
-    - speech_recognition
+    - SpeechRecognition
     - pyttsx3
     - pywhatkit
     - wikipedia
